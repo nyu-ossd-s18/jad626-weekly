@@ -11,3 +11,4 @@
 |    4   |                              [Pull Request Authored](https://github.com/joannakl/cs480_s18/pull/60)                             |   Course Website  |
 |    5   |                            [Pull Request Commented On](https://github.com/joannakl/cs480_s18/pull/71)                           |   Course Website  |
 |    9   |                                [Issue Reported](https://github.com/joannakl/cs480_s18/issues/98)                                |   Course Website  |
+|    9   |                                [Issue Reported](https://github.com/joannakl/cs480_s18/issues/99)                                |   Course Website  |
