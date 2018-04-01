@@ -1,4 +1,4 @@
-| ﻿Week # |                                                          Contributions                                                          | Contribution Type |
+| **Week #** |                                                          **Contributions**                                                          | **Contribution Type** |
 |:------:|:-------------------------------------------------------------------------------------------------------------------------------:|:-----------------:|
 |    3   |                                [Issue Reported](https://github.com/joannakl/cs480_s18/issues/33)                                |   Course Website  |
 |    3   |                               [Issue Commented On](https://github.com/joannakl/cs480_s18/issues/2)                              |   Course Website  |
