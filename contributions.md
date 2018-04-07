@@ -16,4 +16,6 @@
 |   **10**   |   **[Article Edit (English translation)](https://en.wikipedia.org/w/index.php?title=L%27Autrichienne_(film)&diff=prev&oldid=834232322)**   |     **Wikipedia**     |
 |     10     | [Article Edit (Updated talk page)](https://en.wikipedia.org/w/index.php?title=Talk:L%27Autrichienne_(film)&diff=834232689&oldid=771086479) |       Wikipedia       |
 |     10     |                                 [Pull Request Commented On](https://github.com/joannakl/cs480_s18/pull/109)                                |     Course Website    |
+
+
 **Total contributions to date: 13**
