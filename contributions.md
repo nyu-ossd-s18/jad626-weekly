@@ -19,3 +19,4 @@
 
 
 **Total contributions to date: 13**
+(Bold = Counts toward requirement)
