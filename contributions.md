@@ -18,5 +18,5 @@
 |     10     |                                 [Pull Request Commented On](https://github.com/joannakl/cs480_s18/pull/109)                                |     Course Website    |
 
 
-**Total contributions to date: 13**
+**Total contributions to date: 13**  
 (Bold = Counts toward requirement)
