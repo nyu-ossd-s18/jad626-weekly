@@ -25,6 +25,5 @@
 | **13**     | **[Added node: hotel in Madison, WI](https://www.openstreetmap.org/changeset/58879878#map=19/43.07273/-89.39339)**                         | **Other - OpenStreetMap** |
 | **13**     | **[Issue Commented On](https://github.com/coala/coala/issues/5330)**                                                                       | **Other - Coala**         |
 
-
 Total (counting) contributions to date: 21
 (Bold = Counts toward requirement)
