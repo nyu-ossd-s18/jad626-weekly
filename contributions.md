@@ -19,7 +19,7 @@
 |   **13**   |      **[Added node: Ethiopian restaurant in Madison, WI](https://www.openstreetmap.org/changeset/58882047#map=19/43.08364/-89.36425)**     | **Other - OpenStreetMap** |
 |   **13**   |     **[Added node: Vietnamese restaurant in Madison, WI](https://www.openstreetmap.org/changeset/58881945#map=19/43.08559/-89.36077)**     | **Other - OpenStreetMap** |
 |   **13**   |       **[Added node: apartment building in Madison, WI](https://www.openstreetmap.org/changeset/58881612#map=19/43.07188/-89.39334)**      | **Other - OpenStreetMap** |
-|   **13**   |   **[Added node: luxury apartment building in Madison, WI](https://www.openstreetmap.org/changeset/58881179#map=19/43.07351/-89.39397)**   | **Other - OpenStreetMap** |
+|   **13**   |   **[Added node: apartment building in Madison, WI](https://www.openstreetmap.org/changeset/58881179#map=19/43.07351/-89.39397)**   | **Other - OpenStreetMap** |
 |   **13**   |      **[Added node: government building in Madison, WI](https://www.openstreetmap.org/changeset/58880903#map=19/43.07216/-89.38449)**      | **Other - OpenStreetMap** |
 |   **13**   |       **[Added node: Mexican restaurant in Madison, WI](https://www.openstreetmap.org/changeset/58880353#map=19/43.07266/-89.38399)**      | **Other - OpenStreetMap** |
 |   **13**   |             **[Added node: hotel in Madison, WI](https://www.openstreetmap.org/changeset/58879878#map=19/43.07273/-89.39339)**             | **Other - OpenStreetMap** |
